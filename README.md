@@ -11,7 +11,7 @@ Requires:<br>
 
 Usage:<br>
  change the target_url variable to the exact login url for the target web.<br>
- Add a password_list.txt in the same directory with the python file. This file should contain all the passwords you would like to try <br>
+ Add a password_list.lst in the same directory with the python file. This file should contain all the passwords you would like to try <br>
  Change the username value in the data_dict dictionary to the intended username<br>
  
  Then finally do python3 bruteforce_login_form.py
